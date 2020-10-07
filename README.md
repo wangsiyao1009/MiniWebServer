@@ -2,7 +2,7 @@
 
 MiniWebServer
 ===============
-学习服务器开发的小项目，参考TinyWebServer（https://github.com/qinguoyi/TinyWebServer）
+学习服务器开发的小项目，参考TinyWebServer（https://github.com/qinguoyi/TinyWebServer ）
 
 使用cmake编译，默认8086端口运行。
 
